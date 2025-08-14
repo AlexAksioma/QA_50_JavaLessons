@@ -1,0 +1,14 @@
+                Object  toString()
+                         |
+                       Book    toString()
+                   |        |
+   FictionBook  toString()  EducationBook toString()
+       |
+   KidsFictionBook  toString()
+
+   1. Create KidsFictionBook  - int age
+   2. Create 2 objects (KidsFictionBook), print objets
+   3*. Create 5 objects (FictionBook), add to array, create method
+   static void printArray(FictionBook[] array)
+   4*. static Long numberOfPage(FictionBook[] array) return sum all pages
+   if array is null, return null
