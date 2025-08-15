@@ -1,5 +1,7 @@
 package lesson06;
 
+import java.util.Arrays;
+
 public class MethodOverloading {
     public static void main(String[] args) {
         System.out.println(multiply(10, 5));
@@ -7,7 +9,11 @@ public class MethodOverloading {
         System.out.println(multiply(10.5, 3.5));
         System.out.println(multiply("123", "22"));
         int[] array = {1,2,3,4,5};
+        int[] array1 = {1,2,3,4,5};
         System.out.println(multiply(array));
+        System.out.println("====================================");
+        System.out.println(Arrays.toString(array));
+        System.out.println(Arrays.equals(array, array1));
     }
 
     static int multiply(int a, int b) {
