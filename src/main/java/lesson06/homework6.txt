@@ -1,0 +1,12 @@
+create methods
+1. public static void printCharIndex(String str, char sym)
+str = "hello world" sym = 'l'
+  output:
+  2 3 9
+
+2. public static int getQuantityChar(String str, char sym)
+str = "hello world" sym = 'l'
+ output:3
+
+3*. static Boolean isPalindrome(String str)
+azoroza  true, anna
