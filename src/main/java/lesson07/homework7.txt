@@ -1,0 +1,17 @@
+Create methods (use String) with checks !!!
+1. public static boolean isVowel(char ch)
+aeiou ... --> true
+else false
+
+2. use isVowel
+  public static Boolean isVowelsStr(String str)
+str is wrong --> null
+
+3. static String replaceDigits(String str, String replacement)
+My 1 na4me  -- > My A naAme  replacement=A
+
+4*. public static Integer returnLengthOfLongestWord(String text)
+To be or not  --> length of "not" = 3
+
+
+
