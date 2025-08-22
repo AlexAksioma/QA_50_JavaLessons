@@ -1,0 +1,12 @@
+CHECKS!!!
+1. static String repeat(String word, int times)
+hello, 3 --> hello hello hello
+
+2. static String replaceSymbol(String input, char symbol, char replacement)
+hello , e , ! --> h!llo
+
+3*. static String removeDigits(String input)
+he1llo2 --> hello
+
+4*. static String toCamelCase(String input)
+hello qa engineers --> helloQaEngineers
