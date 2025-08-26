@@ -1,0 +1,2 @@
+1. Create class CheckHomeWork08 in the src/test/java/lesson09tests
+2. Create test cases for checking methods (on you choice - 2)

@@ -48,4 +48,6 @@ public class StringBuilderTasks {
         StringBuilder stringBuilder = new StringBuilder(word);
         return word.equals(stringBuilder.reverse().toString());
     }
+
+
 }
