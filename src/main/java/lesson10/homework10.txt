@@ -1,0 +1,12 @@
+1. Base class Human
+                |           |
+              child     Centaurus implement Horsable
+                |
+         ChildCentaurus implement Horsable
+2. Create interface Swimable
+abstract method swim();
+abstract method breathUnderWater();
+3. Create class Mermaid extends Human implements Swimable
+4*. String interleave(string str1, String str2) + cheks
+abc  123  --> a1b2c3
+1 < str1, str2 < 10^5

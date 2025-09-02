@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static lesson09.HomeWork08_solution.*;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class homeWork08_tests {
+public class HomeWork08_tests {
 
     @Test
     public void toCamelCaseTest(){

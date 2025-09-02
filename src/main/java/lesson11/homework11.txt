@@ -1,0 +1,8 @@
+1. Create class Movie
+String name, double rating, int year
+2. Create 5 objects, add to array
+2.1 Before sorting, checking null
+3. Custom sorting by name, year reverse
+4*.sort by name, by rating, by year
+
+7.5 7.7 7.1 --> 7.1 7.5 7.7  Double
