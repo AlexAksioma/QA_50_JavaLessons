@@ -1,0 +1,8 @@
+class Product implement Comparable
+String name, long code, String unit,
+double price, double quantity
+constructor, get, set, toString, equals, hashCode
+1. Custom sorting: code --> name --> unit --> price --> quantity
+2. Price ang price reverse
+3. Quantity reverse --> price
+4. unit --> name reverse --> code
