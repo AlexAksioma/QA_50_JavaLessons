@@ -1,0 +1,9 @@
+1. Create collections
+1.1 ArrayList<Float> add 10 elements
+1.2 type Boolean, add 10 elements
+
+2. Create method printCollection type Boolean
+3*. Delete from bool collection all "true"
+4*. Create collection Movies, add 10 elements with duplicates
+ void deleteDuplicatesMovie(ArrayList<Movie> movies)
+ delete all duplicates
