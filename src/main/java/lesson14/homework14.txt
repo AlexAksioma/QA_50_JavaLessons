@@ -1,0 +1,8 @@
+1. Create linkedList<Double>
+- add 10 elements
+- sort natural, reverse, sort with null
+2. Create method deleteWordFromList(List<string> words, String word)
+3*.  String deleteWordFromText(String text, String word) use List
+String --> List words --> delete word --> Sort reverse --> String
+
+aa bb cc aa vv --> list --> bb cc vv --> vv cc bb --> text

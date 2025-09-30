@@ -1,0 +1,8 @@
+Create methods
+1. int uniqueCharacters(String str)
+
+2. String uniqueCharacters(String str)
+axbcabcd --> axbcd
+
+3*. find common letters from strings
+commonLetters(String ... str)

@@ -1,0 +1,7 @@
+1. Create map (your choice), use methods
+
+2. static Double getAverageValue(Map<Integer, Double> map)
+1-2.2   3-2.2   5-3.3  --> (2.2 + 2.2 + 3.3) / 3
+
+3. static String getKeys(Map<String, Boolean> map)
+Oleg-true  Ivan-False  Petr-true  --> Oleg:Ivan:Petr
