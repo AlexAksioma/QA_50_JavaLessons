@@ -59,7 +59,7 @@ public class HashMapMethods {
         System.out.println(map.values());
     }
 
-    static <K,V> void printMap(Map<K, V> map){
+    public static <K,V> void printMap(Map<K, V> map){
         if(map == null || map.isEmpty()){
             System.out.println("map is null or empty");
             return;

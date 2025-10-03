@@ -1,0 +1,8 @@
+1. Create TreeMap<Double, String> sort reverse
+ - subMap, tailMap, headMap
+2. Map<Student, String>
+ - sort by name, family
+ - sort by family reverse
+3*. String removeDuplicatesAlphaBet(String str)
+aacccbb --> abc
+4*. Map<String, Integer> quantityWords(String text)
